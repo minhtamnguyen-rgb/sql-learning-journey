@@ -35,3 +35,53 @@ Welcome to my SQL learning repository! This is a 12-week plan I’m following to
 
 ## 📂 Folder Structure
 
+sql-learning/
+│
+├── week1/
+│ └── select_basics.sql
+│
+├── week2/
+│ └── filtering_sorting.sql
+│
+├── week3/
+│ └── joins_practice.sql
+│
+...
+├── week12/
+│ └── capstone_project.sql
+│
+└── README.md
+
+---
+
+## 🧠 Capstone Project Ideas
+
+- Analyze NYC Open Data (311 Calls, Traffic, Property Sales)
+- Build a normalized database from scratch (e.g. for a bookstore or music service)
+- Combine SQL with Python or Tableau for visualizations
+
+---
+
+## ✅ Progress Tracker
+
+- [x] Week 1
+- [x] Week 2
+- [ ] Week 3
+- [ ] Week 4
+- [ ] Week 5
+- [ ] Week 6
+- [ ] Week 7
+- [ ] Week 8
+- [ ] Week 9
+- [ ] Week 10
+- [ ] Week 11
+- [ ] Week 12
+
+---
+
+## 🔗 Resources I’m Using
+
+- [SQLBolt](https://sqlbolt.com/)
+- [Mode SQL Tutorial](https://mode.com/sql-tutorial/)
+- [LeetCode – SQL Section](https://leetcode.com/problemset/database/)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
